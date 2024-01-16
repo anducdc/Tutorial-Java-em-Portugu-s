@@ -128,6 +128,5 @@ Também é o tipo de coisa para quem quer trabalhar com sistemas e não seria mu
 Para finalizar, pode ser que alguns arquivos contenham erros aqui e ali, sobretudo com informações pessoais que eu adicionar (como nos comentários explicativos do conteúdo), então se você achar necessário pode me enviar um e-mail em anducdc@gmail.com
 Use também essa forma de contato caso queira tirar dúvidas, pedir umas dicas ou simplesmente conversar. Tentarei responder o mais rápido possível, ok?
 Todo o conteúdo disponibilizado nessas aulas é permitido a ser usado com fins didáticos.
-Mais uma vez: anducdc@gmail.com
 
 Espero que tenhamos uma ótima jornada de Java pela frente! Vamos nos divertir um pouco? Bons estudos a todos!
