@@ -19,10 +19,10 @@ public class Parte02_2 {
 
 }
 
-//Perceba que foram ignoradas múltiplas linhas apeenas indicando /* no início
+//Perceba que foram ignoradas múltiplas linhas apenas indicando /* no início
 //e */ (o inverso) no final delas. A partir de agora todos os comentários de explicação
-//deste tutorial deevem seer feitos assim.
+//deste tutorial devem ser feitos assim.
 
-//Lembre-se sempre de "fechar" os comentários com o */ quando acomentar assim senão
+//Lembre-se sempre de "fechar" os comentários com o */ quando comentar assim senão
 //absolutamente tudo o que vier após /* será comentado, inclusive porções indesejadas
 //do seu código e caracteres fundamentais, como os }} que a IDE criou no final dele.
