@@ -19,6 +19,6 @@ public class Parte02 {
 //adicionei as barras duplas na segunda. Se você executar esse código verá que só
 //a primeira linha aparecerá no console.
 //A utilidade disso é literalmente deixar informaçoees sobre o código para que você
-//ou outras pessoas consigar entender melhor o que está sendo feito quando retornarem
+//ou outras pessoas consigam entender melhor o que está sendo feito quando retornarem
 //aqui no futuro. Também é muito útil para fazer experimentos pois você nao tem que
 //deletar seu código para remover partes dele.
