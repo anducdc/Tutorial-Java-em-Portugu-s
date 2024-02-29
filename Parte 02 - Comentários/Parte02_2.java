@@ -1,6 +1,6 @@
 //Há duas formas de fazer essees comentários: as barras duplas para linhas únicas
 //ou uma barra e asterisco para linhas múltiplas, sendo necessário apenas incluir
-//no início da primeira linha ee no final da última. Tudo o que estiver no meio será
+//no início da primeira linha e no final da última. Tudo o que estiver no meio será
 //ignorado pelo compilador.
 
 public class Parte02_2 {
