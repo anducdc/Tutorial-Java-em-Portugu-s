@@ -16,6 +16,7 @@ Também gostaria de mencionar a necessidade de entender o que é uma IDE e JDK. 
 Apenas lembre-se de que desenvolver programa depende mais do que tudo de por as mão na massa e fazer acontecer, mesmo aquilo que parecer simples ou óbvio e apenas assistir vídeos ou ler textos não vai te ajudar muito (fora que no dia seguinte você vai esquecer até do mais fácil).
 Para quem tiver curiosidade eu estarei trabalhando com a IDE Eclipse (ou NetBeans, caso seja necessário) no Linux Ubuntu, mas você pode usar a que você quiser, como a IntelliJ. Eu não recomendaria o uso da Visual Studio Code para Java.
 No final das contas a IDE que você usar ou o Sistema Operacional nã devem fazer diferença para o que vamos começar aqui, ok?
+Atenção: as pastas src e bin que o EclipseIDE cria para organizar os arquiivos do programa não estão sendo adicionadas aqui por decisão própria. Caso você decida clonar o reposittório e a IDE necessite destas pastas, é possível que você necessiiite criá-las mas eu apenas recomendaria copiar o código direttamente e colar numa nova classe.
 
 -CONTEÚDO-
 
