@@ -36,6 +36,7 @@ atribuindo um valor à variável salarioMes e executando o programa para descobr
 quanto voce ganharia num ano.
 Isso pode ser feito de duas formas:
 	na mesma linha
+ 
 		int salarioMes = 1200;
 		int salarioAno = salarioMes * 12;
 		
