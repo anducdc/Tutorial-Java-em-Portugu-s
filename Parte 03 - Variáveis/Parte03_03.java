@@ -47,7 +47,7 @@ Isso pode ser feito de duas formas:
 		salarioMes = 1200;
 		int salarioAno = salarioMes * 12;
 		
-		System.out.println("Seuu salário anual é de " + salarioAno);
+		System.out.println("Seu salário anual é de " + salarioAno);
 
 ATENÇÃO: na forma atual o programa retornará um erro pelo fato de salarioMes não ter
 um valor atribuído.
